@@ -1,4 +1,9 @@
-import { Fullpage, Slide, HorizontalSlider } from 'fullpage-react';
+import React from 'react';
+
+import { Fullpage, HorizontalSlider, Slide } from 'fullpage-react/lib/index';
+const { changeFullpageSlide, changeHorizontalSlide } = Fullpage;
+
+
 
 const fullPageOptions = {
     // for mouse/wheel events
@@ -31,4 +36,6 @@ const slides = [
 ];
 fullPageOptions.slides = slides;
 
-<Fullpage {...fullPageOptions} />
+const FullpageReact = <Fullpage {...fullPageOptions} />
+
+export default FullpageReact

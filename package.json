@@ -6,6 +6,7 @@
   "dependencies": {
     "fullpage-react": "^3.0.33",
     "gh-pages": "^1.2.0",
+    "npm": "^6.1.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
