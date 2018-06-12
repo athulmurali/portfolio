@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Fullpage, HorizontalSlider, Slide } from 'fullpage-react/lib/index';
+import { Fullpage, HorizontalSlider, Slide } from 'fullpage-react/FullpageReact';
 const { changeFullpageSlide, changeHorizontalSlide } = Fullpage;
 
 
