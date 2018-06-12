@@ -4,6 +4,7 @@
   "private": true,
   "homepage": " https://athulmurali.github.io/portfolio/",
   "dependencies": {
+    "fullpage-react": "^3.0.33",
     "gh-pages": "^1.2.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
@@ -12,8 +13,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy" : "npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
