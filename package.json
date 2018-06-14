@@ -5,6 +5,8 @@
   "homepage": "http://athulmurali.com",
   "dependencies": {
     "@types/react-dom": "^16.0.6",
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
     "fullpage-react": "^3.0.33",
     "gh-pages": "^1.2.0",
     "npm": "^6.1.0",
