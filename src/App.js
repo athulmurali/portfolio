@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Router from "./Routing/Router";
 
 class App extends Component {
   render() {
@@ -13,6 +14,9 @@ class App extends Component {
           To get started, edit
             <code>src/App.js</code> and save to reload.
         </p>
+
+        <Router/>
+
         <h1> Cya soon! - Athul</h1>
       </div>
   }
