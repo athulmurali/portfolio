@@ -2,8 +2,9 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "athulmurali.com",
+  "homepage": "http://athulmurali.com",
   "dependencies": {
+    "@types/react-dom": "^16.0.6",
     "fullpage-react": "^3.0.33",
     "gh-pages": "^1.2.0",
     "npm": "^6.1.0",
