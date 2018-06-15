@@ -12,7 +12,7 @@ class App extends Component {
 
         <Router/>
 
-        <h5> Cya soon! </h5>
+        <h5> Check out my portfolio and cya soon! </h5>
       </div>
   }
 }

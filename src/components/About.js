@@ -7,8 +7,8 @@ const About = () =>{
 
         <div className= "my-glorious-auto-biography" style={{fontFamily:'Courier'}}>
         <p>
-            I simplify the lives of people to  make money by building web apps and
-            spend it on South Indian food to appease my taste buds. </p>
+            I simplify the lives of people to by building web solutions and  make money,
+            spending it on toothsome   South Indian food to appease my taste buds. </p>
         <p>
             After saving the world from trouble,
             I relax my mind with pleasant audio frequencies and hilarious jokes  every day.
