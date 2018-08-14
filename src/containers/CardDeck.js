@@ -155,6 +155,15 @@ const CardDeck =() =>   <div className="card-deck">
                         </a>
 
                 </div>
+
+                    <div className=" col">
+                        <a href="https://www.youtube.com/playlist?list=PLw0yPKqs07m2MfLwDm8t72rN97-ZHgkIO"
+                           className="btn btn-outline-secondary">
+                            <i className="fa fa-youtube-square fa-2x"></i>
+                        </a>
+
+
+                    </div>
                 </div>
             </div>
 

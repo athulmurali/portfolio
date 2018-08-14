@@ -12,11 +12,15 @@ const Home  =()=> (<div>
     <div className="App-intro">
         <h6> Freelancer | Web developer | Software Engineer</h6>
 
-        <img src={avatar} className="avatar" alt="logo" />
+        {/*https://image.ibb.co/mK5XFp/athul.jpg*/}
+
+        <img src="https://image.ibb.co/mK5XFp/athul.jpg" className="avatar" alt="logo" />
 
         <div className="update-alert py-3">
-            <h6> I am currently  renovating this website.</h6>
-            <h6> All the content from my old website will be available in a week</h6>
+            {/*<h6> I am currently  renovating this website.</h6>*/}
+            {/*<h6> All the content from my old website will be available in a week</h6>*/}
+
+            <h6>Please checkout my portfolio for projects</h6>
         </div>
 
     </div>

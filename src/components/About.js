@@ -25,6 +25,13 @@ const About = () =>{
 
         </p>
 
+        My tools :
+        1. Jest
+        2. Git 
+        3. Jira
+        4.
+
+
         <p>  To get started, visit
             <code className="px-2">
                 <a href="https://www.github.com/athulmurali" style={{color:'inherit',textDecoration:'none'}}>github.com/athulmurali</a>
