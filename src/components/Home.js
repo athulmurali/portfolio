@@ -14,7 +14,8 @@ const Home  =()=> (<div>
 
         {/*https://image.ibb.co/mK5XFp/athul.jpg*/}
 
-        <img src="https://image.ibb.co/mK5XFp/athul.jpg" className="avatar" alt="logo" />
+             {/*<img src="https://image.ibb.co/mK5XFp/athul.jpg" className="avatar" alt="logo" />*/}
+         <img src={avatar} className="avatar" alt="logo" />
 
         <div className="update-alert py-3">
             {/*<h6> I am currently  renovating this website.</h6>*/}
